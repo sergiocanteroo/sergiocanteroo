@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sergio 👋
 
-<!--
-**sergiocanteroo/sergiocanteroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Civil Engineering student at **Universidad Politécnica de Madrid (ETSI Caminos)**, also completing a **Data Science & AI diploma**. I build practical tools where engineering, data and software meet.
 
-Here are some ideas to get you started:
+### What I work on
+- **Coastal engineering:** probabilistic design of vertical breakwaters with Monte Carlo simulation on 10 years of wave data (Python).
+- **Structural analysis:** StructCalc, a web app for structural calculations (Next.js + FastAPI).
+- **Sports data:** a training dashboard for my Ironman 70.3 preparation, built on the Intervals.icu API (Next.js, TypeScript, Recharts).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+Python · pandas · NumPy · TypeScript · Next.js · React · Tailwind CSS · FastAPI · VS Code
+
+### Currently
+- 🎓 Studying Civil Engineering in Madrid
+- 🤖 Building with AI coding agents
+- 🏊🚴🏃 Training for IRONMAN 70.3 Valencia (April 2027)
